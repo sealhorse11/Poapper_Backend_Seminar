@@ -1,0 +1,18 @@
+{
+    "name": "Hyeonjung Kim",
+    "job": "student",
+    "age": 20,
+    "hobby": ["exercising", "game", "listening music", "netfilx"],
+    "course_table": [
+        {"name": "AI basis", "id": "AIGS101"},
+        {"name": "introductory course(IT)", "id": "CITE100"},
+        {"name": "programming and solving problem", "id": "CSED101"},
+        {"name": "English basis", "id": "GEDU111"},
+        {"name": "managing health", "id": "GEDU151"},
+        {"name": "entrepreneurship and innovation", "id": "IMEN110"},
+        {"name": "biology(H)", "id": "LIFE103H"},
+        {"name": "searching department", "id": "MSUS101"},
+        {"name": "college life and future planning", "id": "MSUS102"},
+        {"name": "physical experiment", "id": "PHYS103"}
+    ]
+}
