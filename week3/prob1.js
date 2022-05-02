@@ -5,7 +5,7 @@ const moment = require('moment');
 const server = http.createServer((req, res) => {
     console.log(req.url);
     if(req.url == '/'){
-        res.write('<h1></h1>')
+        res.write('<h1>HOMETOWN</h1>')
         res.end()
     }
     if(req.url == '/timer'){
